@@ -1,14 +1,14 @@
 {
 	"Name": "WellMaintainedEnemies",
 	"Enabled": true,
-	"Version": "0.0.1",
-	"Description": "All units have full armor",
+	"Version": "0.1.0",
+	"Description": "All units is procedural contracts have full armor",
 	"Author": "Cargo_Vroom",
 	"Website": "",
 	"Contact": "fakeemail@fakeemail.com",
-	"ConflictsWith": [],
-	"Manifest": [
+	"ConflictsWith": [
 		"BetterBaseDefense",
 		"BetterEscort"
-	]
+	],
+	"Manifest": []
 }
