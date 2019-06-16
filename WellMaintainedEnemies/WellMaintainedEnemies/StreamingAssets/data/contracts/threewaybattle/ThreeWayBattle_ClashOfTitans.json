@@ -3527,7 +3527,6 @@
                         },
                         "spawnEffectTags": {
                             "items": [
-                                "spawn_poorly_maintained_25"
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
@@ -5012,7 +5011,6 @@
                         },
                         "spawnEffectTags": {
                             "items": [
-                                "spawn_poorly_maintained_25"
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
